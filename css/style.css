@@ -1,0 +1,684 @@
+
+/* Style Banner */
+.banner {
+    background-color: #A9DFE2;
+    height: 668px;
+}
+.navbar-brand {
+    font-family: 'Cabin', sans-serif;
+    font-size: 24px;
+    color: #130F49;
+}
+
+.judul-banner {
+    font-family: 'lora', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: #130F49;
+}
+
+.judul-sub-banner {
+    font-family: 'lora', sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+    color: #130F49;
+    margin-top: 10px;
+}
+
+.btn-gabung {
+    background-color: #130F49;
+    font-family: 'lora', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    color: white;
+    border-radius: 10px;
+}
+
+.gambar1 {
+    width: 350px;
+    height: 200px;
+    border-radius: 5px;
+    margin-top: 29px;
+    margin-left: 70px;
+    background-image: url(../img/banner/banner-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.gambar2 {
+    width: 200px;
+    height: 300px;
+    border-radius: 5px;
+    margin-top: -150px;
+    background-image: url(../img/banner/banner-2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* Akhir Style banner */
+
+
+/* Style Penjelasan */
+
+.image-penjelasan {
+    margin-top: 30px;
+}
+
+.penjelasan {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.judul-penjelasan {
+    font-family: 'Lora', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: #130F49 ;
+}
+
+.isi-penjelasan {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #130F49;
+
+}
+
+.btn-pesan {
+    width: 179px;
+    background-color: #130F49 ;
+    border-radius: 20px;
+    color: white;
+    font-family: 'Lora', sans-serif;
+    font-size: 15px;
+}
+
+.sub-penjelasan {
+    margin-top: 30px;
+    text-align: center;
+}
+
+
+.sub-judul-penjelasan {
+    font-family: 'lora', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: #130F49;
+    text-align: left;
+    padding-left: 20px;
+
+}
+
+.isi-sub-penjelasan {
+    font-family: Montserrat;
+font-size: 19px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+color: #130F49;
+padding-left: 20px;
+
+}
+
+/* Akhir Penjelasan */
+
+
+/* promo */
+
+.promo {
+    background-color: #A9DFE2;
+    margin-top: 20px;
+}
+
+.judul-promo {
+        font-family: 'lora', sans-serif;
+        font-weight: 700;
+        font-size: 30px;
+        color: #130F49;
+        padding-top: 30px;
+}
+
+.penjelasan-promo {
+        font-family: 'lora', sans-serif;
+        font-weight: 500;
+        font-size: 20px;
+        color: #130F49;
+        padding-left: 45px;
+        padding-right: 45px;
+}
+
+.promo-terbatas {
+    font-family: Lora;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #130F49;
+    padding: 0 10px 0 10px;
+}
+
+.isi-promo {
+
+    background-color: white;
+    width: 348px;
+    border-radius: 10px;
+}
+
+.wadah-promo {
+    background-color: white;
+    width: 348px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.judul-promo-trip {
+    font-family: Lora;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #130F49;
+}
+
+.alamat-promo-trip {
+    font-family: 'lora', sans-serif;
+        font-weight: 500;
+        font-size: 20px;
+        color: #130F49;
+}
+
+.foto-promo {
+    width: 348px ;
+    height: 223px;
+    background-image: url(../img/promo/promo-1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.btn-booking {
+    width: 224px;
+    border-radius: 50px;
+    background-color: #130F49;
+    font-family: 'Lora', sans-serif;
+    color: white;
+}
+
+/* akhir promo */
+
+/* Testimoni */
+
+/* .testimoni {
+    margin-top: 20px;
+}
+
+.judul-testimoni {
+    margin-top: 30px;
+    font-family: Lora;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0em;
+text-align: left;
+color: #130F49;
+
+}
+
+.isi-testimoni {
+    font-family: Lora;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: justified;
+color: #130F49;
+}
+
+.pekerjaan-testimoni {
+font-family: Lora;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0em;
+text-align: left;
+color: #130F49;
+}
+
+.arrow-testimoni {
+    margin-top: 20px;
+}
+
+.wadah-testimoni {
+    margin-bottom: 120px;
+} */
+
+
+
+.testimoni {
+    margin-top: -60px;
+}
+
+.judul-testimoni {
+    margin-top: 20px;
+    font-family: Lora;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0em;
+text-align: left;
+color: #130F49;
+padding-left: 20px;
+padding-right: 10px;
+
+}
+
+.isi-testimoni {
+    font-family: Lora;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: justified;
+color: #130F49;
+padding-left: 20px;
+padding-right: 10px;
+}
+
+.pekerjaan-testimoni {
+font-family: Lora;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0em;
+text-align: left;
+color: #130F49;
+padding-left: 20px;
+}
+
+.arrow-testimoni {
+    margin-top: 0px;
+}
+
+.wadah-testimoni {
+    margin-bottom: 20px;
+}
+
+/* Akhir Testimoni */
+
+
+/* Informasi */
+
+.informasi {
+    margin-top: 10px;
+    background-color: #A9DFE2;
+    font-family: 'Lora', sans-serif;
+}
+
+.logo {
+    text-align: left;
+}
+
+.judul-informasi {
+    font-family: Lora;
+font-size: 25px;
+font-style: normal;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+color: #130F49;
+padding-top: 28px;
+}
+
+.isi-informasi {
+    font-family: Lora;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+color: #130F49;
+
+}
+
+
+
+.footer {
+    background-color: #130F49;
+    font-family: Lora;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+padding-top: 18px;
+padding-bottom: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 992px) {
+
+    /* Style banner */
+    .banner {
+        background-color: #A9DFE2;
+        height: 668px;
+    }
+    .navbar-brand {
+        font-family: 'Cabin', sans-serif;
+        font-size: 24px;
+        color: #130F49;
+    }
+    
+    .judul-banner {
+        font-family: 'lora', sans-serif;
+        font-weight: 700;
+        font-size: 36px;
+        color: #130F49;
+        margin-top: 124px;
+    }
+    
+    .judul-sub-banner {
+        font-family: 'lora', sans-serif;
+        font-weight: 500;
+        font-size: 30px;
+        color: #130F49;
+        margin-top: 30px;
+    }
+    
+    .btn-gabung {
+        background-color: #130F49;
+        font-family: 'lora', sans-serif;
+        font-weight: 500;
+        font-size: 15px;
+        color: white;
+        border-radius: 10px;
+    }
+    
+    .gambar1 {
+        width: 505px;
+        height: 309px;
+        border-radius: 5px;
+        margin-top: 29px;
+        margin-left: 70px;
+        background-image: url(../img/banner/banner-1.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+    .gambar2 {
+        width: 301px;
+        height: 412px;
+        border-radius: 5px;
+        margin-top: -200px;
+        background-image: url(../img/banner/banner-2.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    /* akhir style banner */
+
+    /* Style Penjelasan */
+
+    .image-penjelasan {
+        margin-top: 120px;
+    }
+    
+    .penjelasan {
+        margin-top: 150px;
+        margin-left: 0px;
+    }
+    
+    .judul-penjelasan {
+        font-family: 'Lora', sans-serif;
+        font-size: 30px;
+        font-weight: 700;
+        color: #130F49 ;
+    }
+    
+    .isi-penjelasan {
+        font-family: Montserrat;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #130F49;
+    
+    }
+    
+    .btn-pesan {
+        width: 179px;
+        background-color: #130F49 ;
+        border-radius: 20px;
+        color: white;
+        font-family: 'Lora', sans-serif;
+        font-size: 15px;
+    }
+
+    .sub-penjelasan {
+        margin-top: 120px;
+        text-align: left;
+    }
+    
+    .sub-judul-penjelasan {
+        font-family: 'lora', sans-serif;
+        font-size: 30px;
+        font-weight: 700;
+        color: #130F49;
+        padding-left: 0px;
+    
+    }
+    
+    .isi-sub-penjelasan {
+        font-family: Montserrat;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #130F49;
+    padding-left: 0px;
+    
+    }
+
+    /* Akhir Penjelasan */
+
+
+    /* Promo */
+
+    .promo {
+        background-color: #A9DFE2;
+        margin-top: 110px;
+    }
+    
+    .judul-promo {
+        font-family: 'lora', sans-serif;
+            font-weight: 700;
+            font-size: 36px;
+            color: #130F49;
+            padding-top: 47px;
+    }
+    
+    .penjelasan-promo {
+        font-family: 'lora', sans-serif;
+            font-weight: 500;
+            font-size: 24px;
+            color: #130F49;
+            padding-left: 45px;
+            padding-right: 45px;
+    }
+    
+    .promo-terbatas {
+        font-family: Lora;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: center;
+    
+        color: #130F49;
+    }
+
+    /* Akhir Promo */
+
+
+    /* Testimoni */
+
+/* .testimoni {
+    margin-top: 100px;
+}
+
+.judul-testimoni {
+    margin-top: 169px;
+    font-family: Lora;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0em;
+text-align: left;
+color: #130F49;
+
+}
+
+.isi-testimoni {
+    font-family: Lora;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: justified;
+color: #130F49;
+}
+
+.pekerjaan-testimoni {
+font-family: Lora;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0em;
+text-align: left;
+color: #130F49;
+}
+
+.arrow-testimoni {
+    margin-top: 257px;
+}
+
+.wadah-testimoni {
+    margin-bottom: 120px;
+} */
+
+
+
+.testimoni {
+    margin-top: 0px;
+}
+
+.judul-testimoni {
+    margin-top: 60px;
+    font-family: Lora;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0em;
+text-align: left;
+color: #130F49;
+padding-left: 0px;
+padding-right: 0px;
+
+}
+
+.isi-testimoni {
+    font-family: Lora;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: justified;
+color: #130F49;
+padding-left: 0px;
+padding-right: 0px;
+}
+
+.pekerjaan-testimoni {
+font-family: Lora;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0em;
+text-align: left;
+color: #130F49;
+padding-left: 0px;
+}
+
+.arrow-testimoni {
+    margin-top: 190px;
+}
+
+.wadah-testimoni {
+    margin-bottom: 120px;
+}
+
+/* Informasi */
+
+.informasi {
+    margin-top: 120px;
+    background-color: #A9DFE2;
+    font-family: 'Lora', sans-serif;
+}
+
+.logo {
+    text-align: center;
+}
+
+
+
+
+
+
+
+}
